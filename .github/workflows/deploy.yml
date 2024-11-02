@@ -21,8 +21,11 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      - name: Install gh-pages
+        run: npm install gh-pages --save-dev
+
       - name: Build the project
         run: npm run build
 
       - name: Deploy to GitHub Pages
-        run: npm run deploy  # Make sure this command builds and deploys correctly
+        run: npm run deploy
