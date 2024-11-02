@@ -1,6 +1,6 @@
 {
   "name": "portfolio",
-  "homepage": "https://github.com/Tarunbalaji2003",
+ "homepage": "https://tarunbalaji2003.github.io/tarun-portfolio",
   "description": "Portfolio site for Tarunbalaji",
   "repository": "https://github.com/Tarunbalaji2003",
   "author": "Tarunbalaji S",
@@ -15,6 +15,7 @@
     "dev:storybook": "storybook dev -p 6006",
     "build:storybook": "storybook build",
     "deploy:storybook": "wrangler pages deploy ./storybook-static --project-name portfolio-storybook --branch main"
+    "predeploy": "npm run build"
   },
 
   "dependencies": {
