@@ -1,0 +1,41 @@
+__  __  __
+\ \ \ \ \/
+ \ \/\ \
+  \/  \/
+
+The humans.txt file explains the team, technology,
+and graphic assets behind this site humanstxt.org.
+
+_______________________________________________________________________________
+
+DESIGNER | デザイナー
+
+
+Design Inspiration 👉 Williams, Cyberpunk
+
+
+Tarun Balaji
+Hand crafted design & web development
+
+
+
+github.com/Tarunbalaji2003
+linkedin.com/in/tarunbalaji
+youtube.com/@cloudaficionado
+
+_______________________________________________________________________________
+
+TECHNOLOGY | テクノロジー
+
+React
+Remix
+Three.js
+Framer Motion
+
+_______________________________________________________________________________
+
+FONTS | フォント
+
+Gotham
+IPA Gothic Regular
+Hiragino Kaku Gothic W8
